@@ -1,0 +1,4 @@
+@host=https://localhost:7164
+
+GET {{host}}/api/Parameters
+Content-Type: application/json
